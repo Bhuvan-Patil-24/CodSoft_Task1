@@ -1,0 +1,18 @@
+[
+    {
+        "task": "Sleeping",
+        "completed": false
+    },
+    {
+        "task": "Walking",
+        "completed": false
+    },
+    {
+        "task": "Eating",
+        "completed": false
+    },
+    {
+        "task": "Playing",
+        "completed": true
+    }
+]
